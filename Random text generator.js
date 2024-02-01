@@ -6,4 +6,4 @@ function getRandom(max) {
   }
 
 
-console.log(`Today you should go eat at ${getRandom(foodIdeas)}`)
+console.log(`Today you hello go eat at ${getRandom(foodIdeas)}`)
